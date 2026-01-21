@@ -1,17 +1,25 @@
 # PyVault 🔐
 
-PyVault is a simple terminal-based password manager built in Python.  
-It uses a master password hashed with bcrypt and stores account data locally in a JSON vault.
+PyVault is a lightweight command-line password manager written in Python.  
+It secures access using a master password hashed with bcrypt and stores credentials in a local vault file.
+
+## Why PyVault?
+This project was built to practice authentication, file handling, and basic security concepts in a simple and understandable way.
 
 ## Features
-- Master password protection
-- Add, view, list, delete accounts
-- Hidden password input
-- Local JSON storage
+- Secure master password (bcrypt hashing)
+- Local JSON-based vault
+- Add / View / List / Delete credentials
+- Hidden terminal password input
+- Auto vault initialization
 
-## Install & Run
+## Tech Stack
+Python • bcrypt • JSON • CLI
+
+## Run
 pip install bcrypt  
 python main.py
 
-## Note
-Stored account passwords are plaintext (for learning purposes).
+## Future Plans
+- Encrypt stored passwords
+- Search and edit entries
