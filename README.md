@@ -1,4 +1,4 @@
-## PyVault
+## Vault for Passwords
 
 A  Python project that demonstrates how real password managers handle authentication logic.
 
