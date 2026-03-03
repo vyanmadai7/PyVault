@@ -7,7 +7,7 @@ A  Python project that demonstrates how real password managers handle authentica
 - Stores a bcrypt hashed master password..
 - Verifies master password before any action..
 - Saves account credentials locally..
-- Provides CLI menu for operations
+- Provides CLI menu for operations..
 
 ## Learn before making this
 - File I/O with JSON
