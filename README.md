@@ -3,7 +3,7 @@
 A  Python project that demonstrates how real password managers handle authentication logic.
 
 ## What it does
-- Creates a vault.json file automatically
+- Creates a vault.json file automatically..
 - Stores a bcrypt hashed master password
 - Verifies master password before any action
 - Saves account credentials locally
