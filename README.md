@@ -11,7 +11,7 @@ A  Python project that demonstrates how real password managers handle authentica
 
 ## Learn before making this
 - File I/O with JSON..
-- Password hashing with bcrypt
+- Password hashing with bcrypt..
 - Secure input handling
 - Basic authentication flow
 
