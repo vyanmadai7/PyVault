@@ -13,7 +13,7 @@ A  Python project that demonstrates how real password managers handle authentica
 - File I/O with JSON..
 - Password hashing with bcrypt..
 - Secure input handling..
-- Basic authentication flow
+- Basic authentication flow..
 
 ## Installation
 pip install bcrypt
