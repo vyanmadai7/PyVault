@@ -16,7 +16,7 @@ A  Python project that demonstrates how real password managers handle authentica
 - Basic authentication flow..
 
 ## Installation
-pip install bcrypt
+pip install bcrypt..
 
 ## Run
 python main.py
