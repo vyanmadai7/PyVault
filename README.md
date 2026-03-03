@@ -10,7 +10,7 @@ A  Python project that demonstrates how real password managers handle authentica
 - Provides CLI menu for operations..
 
 ## Learn before making this
-- File I/O with JSON
+- File I/O with JSON..
 - Password hashing with bcrypt
 - Secure input handling
 - Basic authentication flow
